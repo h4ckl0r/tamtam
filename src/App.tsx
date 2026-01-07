@@ -1,5 +1,5 @@
 // src/App.tsx
-import React, { useState } from "react";
+import { useState } from "react";
 import { db } from "./data";
 
 // Hàm helper để định dạng kiểu CSS tùy theo trạng thái
