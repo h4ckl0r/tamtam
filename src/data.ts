@@ -1233,7 +1233,7 @@ export const db: RootObject = {
           {
             id: 18425,
             content: "A. LIMIT 5 OFFSET 10",
-            isCorrect: false,
+            isCorrect: true,
             created_at: "2026-01-07T04:17:36.000Z",
           },
           {
@@ -1251,7 +1251,7 @@ export const db: RootObject = {
           {
             id: 18428,
             content: "D. OFFSET 11 LIMIT 5",
-            isCorrect: true,
+            isCorrect: false,
             created_at: "2026-01-07T04:17:36.000Z",
           },
         ],
